@@ -1,0 +1,65 @@
+{
+  "name": "antd-demo",
+  "jest": {
+    "transform": {
+      "^.+\\.tsx?$": "babel-jest"
+    },
+    "moduleNameMapper": {
+      "\\.(css|scss|svg)$": "identity-obj-proxy"
+    }
+  },
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@atlaskit/tooltip": "^9.1.4",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "antd": "^4.6.5",
+    "axios": "^0.20.0",
+    "formik": "^2.2.5",
+    "history": "^5.0.0",
+    "i18next": "^19.8.1",
+    "lodash": "^4.17.20",
+    "qs": "^6.9.4",
+    "ramda": "^0.27.1",
+    "react": "^16.13.1",
+    "react-csv": "^2.0.3",
+    "react-dom": "^16.13.1",
+    "react-i18next": "^11.7.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-select": "^3.1.0",
+    "recharts": "^1.8.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "testwatch": "jest --watchAll"
+  },
+  "proxy": "http://192.168.132.139:4000",
+  "secure": false,
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
+    "jest": "^26.5.3",
+    "jest-enzyme": "^7.1.2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "host": "192.168.132.139",
+    "user": "tim",
+    "password": "81221tim",
+    "database": "training",
+    "port": 3306
+}

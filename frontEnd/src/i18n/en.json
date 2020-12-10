@@ -1,0 +1,97 @@
+{
+    "login": {
+        "username": "Username",
+        "password": "Password",
+        "username_message": "Please enter your username!",
+        "password_message": "Please enter your password!",
+        "submit": "Submit",
+        "failed": "Login failed",
+        "language": "Language",
+        "register": "Register",
+        "login_page": "Login page",
+        "register_page": "Register page"
+    },
+    "home": {
+        "line_chart": "LineChart",
+        "bar_chart": "BarChart",
+        "pie_chart": "PieChart",
+        "area_chart": "AreaChart"
+    },
+    "user": {
+        "user_information": "User Information",
+        "user_name": "Username",
+        "phone": "Phone",
+        "place_of_residence": "Place of residence",
+        "email": "Email",
+        "address": "Address",
+        "data": {
+            "user_name": "Zhou Maomao",
+            "phone": "1810000000",
+            "place_of_residence": "Hangzhou, Zhejiang",
+            "remarks": "Empty",
+            "address": "No. 18, Wantang Road, Xihu District, Hangzhou, Zhejiang, China"
+        }
+    },
+    "member_list": {
+        "columns": {
+            "name": "name",
+            "age": "age",
+            "email": "email",
+            "phone": "phone",
+            "operation": "operation"
+        },
+        "member_Name": "Member Name",
+        "authority": "Authority",
+        "edit": "Edit",
+        "delete": "Delete",
+        "save": "save",
+        "cancel": "cancel",
+        "Are_you_sure_you_want_to_cancel": "Are you sure you want to cancel?",
+        "You_sure_you_want_to_delete_it": "You sure you want to delete it?",
+        "Please_enter_user_name": "Please enter user name",
+        "Please_enter_user_email": "Please enter user email",
+        "Please_select_an_authority": "Please select an authority",
+        "Successfully_modified": "Successfully modified",
+        "Successfully_deleted": "Successfully deleted"
+    },
+    "Register": {
+        "帳號": "Username",
+        "密碼": "Password",
+        "電子郵件": "Email",
+        "儲存": "Save",
+        "取消": "Cancel",
+        "帳號為必填欄位": "Account is a required",
+        "密碼為必填欄位": "Password is a required",
+        "電子郵件為必填欄位": "Email is a required"
+    },
+    "表格輸出": {
+        "姓名": "Name",
+        "電子郵件": "Email",
+        "內容": "Body",
+        "匯出": "Export"
+    },
+    "權限設定": {
+        "編號": "No",
+        "名稱": "Name",
+        "操作": "Action",
+        "編輯": "Edit",
+        "查看": "View",
+        "查看編輯": "View && Edit",
+        "開啟": "On",
+        "關閉": "Off",
+        "取消": "Cancel",
+        "送出": "Submit"
+    },
+    "留言板": {
+        "我要留言": "Leave a message",
+        "留言板": "Message board",
+        "沒有留言": "No message",
+        "姓名": "Name",
+        "電子郵件": "Email",
+        "內容": "Content",
+        "清除": "Clear",
+        "提交": "Submit",
+        "為必填欄位": "Is a required field!",
+        "不符合email格式": "Does not conform to the email format!"
+    }
+}
